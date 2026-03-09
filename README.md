@@ -3,6 +3,7 @@ This is a large CK3 modlist refined through many hours of gameplay, designed to 
 It stays close to vanilla, but enriches it with stronger historical, dynastic, cultural, and military flavor while keeping the experience believable and grounded without turning the game into something that feels disconnected from its setting.
 
 Important Notes 📜
+
 The current focus of the modlist is Europe and the Middle East. More regional flavor for Asia and Africa will come later 🌍
 
 Recommended start: Kaiser Heinrich IV of the Holy Roman Empire (1066). This campaign quickly exposes many systems used in the modlist such as court management, vassal politics, religion, and warfare.
